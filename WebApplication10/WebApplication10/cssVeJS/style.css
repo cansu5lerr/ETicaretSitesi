@@ -1,0 +1,227 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.resimSlider {
+    height: 450px;
+}
+
+body {
+    background: #dedede;
+}
+
+.harita {
+    float: right;
+}
+
+.arkaPlan {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 350px;
+    width: 100%;
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.arkaPlan2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 350px;
+    width: 100%;
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.arkaPlan h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #332902;
+}
+
+.arkaPlan .input_field {
+    margin-bottom: 10px;
+}
+
+    .arkaPlan .input_field input[type="text"],
+    .arkaPlan textarea {
+        border: 1px solid #e0e0e0;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .arkaPlan .input_field input[type="password"],
+    .arkaPlan textarea {
+        border: 1px solid #e0e0e0;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .arkaPlan .input_field input[type="email"],
+    .arkaPlan textarea {
+        border: 1px solid #e0e0e0;
+        width: 100%;
+        padding: 10px;
+    }
+
+.arkaPlan textarea {
+    resize: none;
+    height: 40px;
+}
+
+.arkaPlan .btn input[type="submit"] {
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    background: #fece0c;
+    color: #332902;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.arkaPlan .btn input[type="reset"] {
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    background: #fece0c;
+    color: #332902;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+#error_message {
+    margin-bottom: 20px;
+    background: #fe8b8e;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
+
+.arka {
+    background-color: #212d42;
+    ;
+}
+
+.arka3 {
+    background-color: #6b7fa2;
+}
+
+.menu {
+    color: #dedede
+}
+
+.yer {
+    position: absolute;
+    top: 89%;
+    left: 82%;
+    transform: translate(-50%,-50%);
+    max-width: 350px;
+    width: 100%;
+}
+
+.dd {
+    float: right;
+    width: 300px;
+    height: 480px;
+}
+
+.yer2 {
+    position: absolute;
+    top: 70%;
+    left: 65%;
+    transform: translate(-50%,-50%);
+    max-width: 350px;
+    width: 100%;
+}
+
+.bndfoto {
+    position: relative;
+    left: 25%;
+    top: 10%;
+}
+
+.tapinak {
+    width: 418px;
+    height: 280px;
+}
+
+.hardian {
+    position: relative;
+    left: 2%;
+    top: 10%;
+}
+
+.tablo {
+    position: relative;
+    left: 25%;
+    top: 10%;
+}
+
+.arka4 {
+    background-color: #6b7fa2;
+    width: 50px;
+}
+
+.app {
+    position: relative;
+    float: right;
+}
+
+.header h1 {
+    font-size: 30px;
+    color: #109e5c;
+}
+
+.header input {
+    width: 100%;
+    padding: px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    border-bottom: 22px solid #29f093;
+    text-align: center;
+    font-size: 20px;
+    color: #332902;
+}
+
+.city {
+    font: size 35%;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.temp {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.desc {
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
