@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication13.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication13.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\10f7e310-f183-4507-8afa-e9e40621d69c.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\10f7e310-f183-4507-8afa-e9e40621d69c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\1367a97f-cee7-4abc-bf98-7df03d95c8e2.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\1367a97f-cee7-4abc-bf98-7df03d95c8e2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\1968f54d-8eac-4241-a6ba-d6a858f110a4.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\1968f54d-8eac-4241-a6ba-d6a858f110a4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\1e27e602-1605-4845-8261-73e113a274ff.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\1e27e602-1605-4845-8261-73e113a274ff.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\3f5d0953-e541-4c02-be6b-a6e36362f419.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\3f5d0953-e541-4c02-be6b-a6e36362f419.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\438c5d02-0917-4580-8da2-ffba42efb447.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\438c5d02-0917-4580-8da2-ffba42efb447.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\5d90f1e3-b4fb-413d-9458-3608a3f3a512.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\5d90f1e3-b4fb-413d-9458-3608a3f3a512.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\6d5f0ce4-446b-4e31-b00d-18e5f0348054.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\6d5f0ce4-446b-4e31-b00d-18e5f0348054.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\7149639f-76d9-42cc-bbd4-6f4183716e1f.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\7149639f-76d9-42cc-bbd4-6f4183716e1f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\74064a7d-0c15-42e6-a950-007680ecce80.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\74064a7d-0c15-42e6-a950-007680ecce80.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\7acdb073-9ff6-4854-bc04-450693fb18e3.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\7acdb073-9ff6-4854-bc04-450693fb18e3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\8cf6036f-4a00-48e4-a0ff-1a6891654263.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\8cf6036f-4a00-48e4-a0ff-1a6891654263.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\90b709d9-69ec-4a0b-9cfb-794fd6fe7e2e.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\90b709d9-69ec-4a0b-9cfb-794fd6fe7e2e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\94e6452b-2995-44c3-a97e-08d8cc7de636.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\94e6452b-2995-44c3-a97e-08d8cc7de636.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\Gratis-logo-big.svg.jpg",
+      "PackagePath": "staticwebassets\\ImagesFile\\Gratis-logo-big.svg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\a91f4abc-7e6a-4046-ae0c-56b6bfb6c04c.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\a91f4abc-7e6a-4046-ae0c-56b6bfb6c04c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\ab77aa12-c203-44e7-8a2a-893b0763840e.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\ab77aa12-c203-44e7-8a2a-893b0763840e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\ac4c05e9-6eaa-4419-b81a-1c5acf8ce25d.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\ac4c05e9-6eaa-4419-b81a-1c5acf8ce25d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\b865a75f-f2a7-4c81-aaf5-0d8fc7b0fa8f.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\b865a75f-f2a7-4c81-aaf5-0d8fc7b0fa8f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\ba353186-f913-4198-9964-05d90e3b297d.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\ba353186-f913-4198-9964-05d90e3b297d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\ba522969-d819-479a-b46f-dee0f51c34fc.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\ba522969-d819-479a-b46f-dee0f51c34fc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\bba27830-0620-4198-9cef-716ec7661a91.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\bba27830-0620-4198-9cef-716ec7661a91.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\bfefee86-b41d-47f5-8b77-d4bfb8266b31.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\bfefee86-b41d-47f5-8b77-d4bfb8266b31.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\cfa0c7bd-3eaa-4867-adf3-0c33b69a1566.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\cfa0c7bd-3eaa-4867-adf3-0c33b69a1566.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\d20ee483-955c-41b3-89d4-28255677ed69.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\d20ee483-955c-41b3-89d4-28255677ed69.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\d7aff452-118a-4af2-b4ed-60c92f26c599.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\d7aff452-118a-4af2-b4ed-60c92f26c599.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\da430ad1-c83c-4372-8812-42759cf96b58.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\da430ad1-c83c-4372-8812-42759cf96b58.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\df95ecf1-d09d-45b3-9d94-318433d0687b.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\df95ecf1-d09d-45b3-9d94-318433d0687b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\dfb21b77-942f-4e8a-b1dd-782d8e544a8a.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\dfb21b77-942f-4e8a-b1dd-782d8e544a8a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\e7833229-1798-4afa-97f4-b2837b2e3c4b.webp",
+      "PackagePath": "staticwebassets\\ImagesFile\\e7833229-1798-4afa-97f4-b2837b2e3c4b.webp"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\e9b8d330-6dc7-4869-a049-9ad5e331f496.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\e9b8d330-6dc7-4869-a049-9ad5e331f496.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\e9e31ee3-a2c7-4a7a-bb43-b1d33d0cc726.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\e9e31ee3-a2c7-4a7a-bb43-b1d33d0cc726.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\eaecba63-c672-42dd-a6c8-dc77c44bc359.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\eaecba63-c672-42dd-a6c8-dc77c44bc359.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\f294f0af-357c-43bc-87c2-04b6881d1263.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\f294f0af-357c-43bc-87c2-04b6881d1263.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\f49e76a2-0ce9-4cfd-b63c-70fe4951ae64.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\f49e76a2-0ce9-4cfd-b63c-70fe4951ae64.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\f585d5b1-5349-482a-a164-5818759ca4c9.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\f585d5b1-5349-482a-a164-5818759ca4c9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\f93d9269-d503-4a60-8a71-e2e47974e419.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\f93d9269-d503-4a60-8a71-e2e47974e419.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\fa361302-f9be-4b1b-b0af-18a25297dd55.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\fa361302-f9be-4b1b-b0af-18a25297dd55.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\gratis1.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\gratis1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\gratis2.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\gratis2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\gratis3.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\gratis3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\gratis4.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFile\\gratis4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\ImagesFile\\logo.png",
+      "PackagePath": "staticwebassets\\ImagesFile\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cansu\\source\\repos\\WebApplication13\\WebApplication13\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication13.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication13.props",
+      "PackagePath": "build\\WebApplication13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication13.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication13.props",
+      "PackagePath": "buildTransitive\\WebApplication13.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,320 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@model IPagedList<WebApplication13.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@inject LanguageService language
+<style>
+    .resimSlider {
+        height: 300px;
+    }
+
+    .txt {
+        font-family: 'Quicksand', sans-serif;
+    }
+
+    .product-image-wrapper {
+       /* border: 1px solid purple;*/
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+
+    .single-products {
+        position: relative;
+    }
+
+    .productinfo {
+        position: relative;
+    }
+
+    .features_items {
+        overflow: hidden;
+    }
+
+    .container,
+    .container-fluid,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .pagination {
+        display:inline-flex;        
+        padding-left: 0;
+        margin: 40px 0;
+        border-radius: 4px;
+    }
+
+        .pagination > li {
+            display: flex;
+            flex-direction: row;
+        }
+
+            .pagination > li > a,
+            .pagination > li > span {
+                position: relative;
+                float: left;
+                padding: 6px 12px;
+                margin-left: -1px;
+                line-height: 1.428571429;
+                text-decoration: none;
+                background-color: #ffffff;
+                border: 1px solid #dddddd;
+            }
+
+            .pagination > li:first-child > a,
+            .pagination > li:first-child > span {
+                margin-left: 0;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px;
+            }
+
+            .pagination > li:last-child > a,
+            .pagination > li:last-child > span {
+                border-top-right-radius: 4px;
+                border-bottom-right-radius: 4px;
+            }
+
+            .pagination > li > a:hover,
+            .pagination > li > span:hover,
+            .pagination > li > a:focus,
+            .pagination > li > span:focus {
+                background-color: #eeeeee;
+            }
+
+        .pagination > .active > a,
+        .pagination > .active > span,
+        .pagination > .active > a:hover,
+        .pagination > .active > span:hover,
+        .pagination > .active > a:focus,
+        .pagination > .active > span:focus {
+            z-index: 2;
+            color: #ffffff;
+            cursor: default;
+            background-color: #428bca;
+            border-color: #428bca;
+        }
+
+        .pagination > .disabled > span,
+        .pagination > .disabled > a,
+        .pagination > .disabled > a:hover,
+        .pagination > .disabled > a:focus {
+            color: #999999;
+            cursor: not-allowed;
+            background-color: #ffffff;
+            border-color: #dddddd;
+        }
+
+    .pagination-lg > li > a,
+    .pagination-lg > li > span {
+        padding: 10px 16px;
+        font-size: 18px;
+    }
+
+    .pagination-lg > li:first-child > a,
+    .pagination-lg > li:first-child > span {
+        border-bottom-left-radius: 6px;
+        border-top-left-radius: 6px;
+    }
+
+    .pagination-lg > li:last-child > a,
+    .pagination-lg > li:last-child > span {
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+    }
+
+    .pagination-sm > li > a,
+    .pagination-sm > li > span {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    .pagination-sm > li:first-child > a,
+    .pagination-sm > li:first-child > span {
+        border-bottom-left-radius: 3px;
+        border-top-left-radius: 3px;
+    }
+
+    .pagination-sm > li:last-child > a,
+    .pagination-sm > li:last-child > span {
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+    }
+
+    .pager {
+        padding-left: 0;
+       margin: 20px 0;
+       text-align: center;
+     
+        list-style: none;
+    }
+
+        .pager:before,
+        .pager:after {
+            display: table;
+            content: " ";
+        }
+
+        .pager:after {
+            clear: both;
+        }
+
+        .pager:before,
+        .pager:after {
+            display: table;
+            content: " ";
+        }
+
+        .pager:after {
+            clear: both;
+        }
+
+        .pager li {
+            display: inline;
+        }
+
+            .pager li > a,
+            .pager li > span {
+                display: inline-block;
+                padding: 5px 14px;
+                background-color: #ffffff;
+                border: 1px solid #dddddd;
+                border-radius: 15px;
+            }
+
+                .pager li > a:hover,
+                .pager li > a:focus {
+                    text-decoration: none;
+                    background-color: #eeeeee;
+                }
+
+        .pager .next > a,
+        .pager .next > span {
+            float: right;
+        }
+
+        .pager .previous > a,
+        .pager .previous > span {
+            float: left;
+        }
+
+        .pager .disabled > a,
+        .pager .disabled > a:hover,
+        .pager .disabled > a:focus,
+        .pager .disabled > span {
+            color: #999999;
+            cursor: not-allowed;
+            background-color: #ffffff;
+        }
+</style>
+<br />
+<br />
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/ImagesFile/gratis1.jpeg" class="d-block w-100 resimSlider" alt="...">
+
+        </div>
+        <div class="carousel-item">
+            <img src="/ImagesFile/gratis2.jpeg" class="d-block w-100 resimSlider" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="/ImagesFile/gratis3.jpeg" class="d-block w-100 resimSlider" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="/ImagesFile/gratis4.jpeg" class="d-block w-100 resimSlider" alt="...">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+@*<h2 class="title text-center">ÜRÜNLERİMİZ</h2>
+@foreach (var item in Model)
+{
+    <div class="col-sm-4">
+        <div class="product-image-wrapper">
+            <div class="single-products">
+                <div class="productinfo text-center">
+                 <th>
+                    <img src="~/ImagesFile/@item.Image" width="65" height="110" alt="">
+                    <h2>@item.Price</h2>
+                    <p class="txt">@item.Name</p>
+                    <a href="/Product/Details/@item.Id" class="btn btn-default add-to-cart">Ürün Detay</a>
+                   </th>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+}*@
+<section>
+
+    <div class="container">
+        <div class="row">
+            @* @Html.Action("CategoryList","Category");*@
+     
+            <div class="col-sm-9 padding-right">
+             
+                <div class="features_items">
+                    <!--features_items-->
+                    <h2 class="title text-center">@language.Getkey("products")</h2>
+                    <div class="pager">
+                    <ul class="pagination">
+                        
+                 @foreach (var item in Model)
+                    {
+                        <div class="col-sm-4">
+                            <div class="product-image-wrapper">
+                                <div class="single-products">
+                                    <div class="productinfo text-center">
+
+                                        <a href="/Product/Details/@item.Id"><img src="~/ImagesFile/@item.Image" width="65" height="110" alt="" /></a>
+                                        <h2>@item.Price</h2>
+                                        <p>@item.Name</p>
+                                        
+                                       <a class="btn btn-fefault cart" style="margin-top:15px" href="/Cart/AddCart/@item.Id">
+                                            <i class="fa fa-shopping-cart"></i>
+                                           @language.Getkey("Buy")
+                                        </a>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page}))
+
+                        
+                    </ul>
+                   </div>
+                </div>
+                
+            </div>
+          
+        </div>
+         
+        </div>
+   
+</section>
