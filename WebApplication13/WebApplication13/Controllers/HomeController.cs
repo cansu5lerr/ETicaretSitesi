@@ -25,10 +25,6 @@ namespace WebApplication13.Controllers
             return View(values);
 
         }
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
         public IActionResult ChangeLanguage(string culture)
         {
             Response.Cookies.Append(CookieRequestCultureProvider.DefaultCookieName,
